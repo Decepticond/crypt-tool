@@ -28,7 +28,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 Congrats, gsm-tool should've been succesfully installed, run gsm-tool to start it up.
 
 
-### Uninstalling gsm-tool
+### Uninstalling crypt-tool
 `rm -rf crypt-tool`
 ...
 `cargo uninstall crypt-tool`
