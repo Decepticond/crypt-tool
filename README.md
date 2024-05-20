@@ -25,7 +25,7 @@ This project is currently still very WIP, as is my knowledge of GitHub in genera
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
 
-Congrats, gsm-tool should've been succesfully installed, run gsm-tool to start it up.
+Congrats, crypt-tool should've been succesfully installed, run crypt-tool to start it up.
 
 
 ### Uninstalling crypt-tool
