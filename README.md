@@ -7,11 +7,11 @@ This project is currently still very WIP, as is my knowledge of GitHub in genera
 ### Installation [WIP] 
 **To install on MacOS/Linux, simply run:**
 
-`curl -L https://raw.githubusercontent.com/Lazaurus/crypt-tool/main/install.sh | bash`
+`curl -L https://raw.githubusercontent.com/Lazaurus/crypt-tool/master/install.sh | bash`
 
 *Or if you would prefer another path*
 
-`curl -L https://raw.githubusercontent.com/Lazaurus/crypt-tool/main/install.sh | bash -s mypath/`
+`curl -L https://raw.githubusercontent.com/Lazaurus/crypt-tool/master/install.sh | bash -s mypath/`
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 **To install on Windows, [run as administrator], simply run:**
@@ -20,7 +20,7 @@ This project is currently still very WIP, as is my knowledge of GitHub in genera
 
 *then run...*
 
-`Start-BitsTransfer -Source https://raw.githubusercontent.com/Lazaurus/crypt-tool/main/install.ps1 -Destination $env:TMP/install_crypt-tool.ps1; Unblock-File $env:TMP/install_crypt-tool.ps1; Invoke-Expression $env:TMP/install_crypt-tool.ps1`
+`Start-BitsTransfer -Source https://raw.githubusercontent.com/Lazaurus/crypt-tool/master/install.ps1 -Destination $env:TMP/install_crypt-tool.ps1; Unblock-File $env:TMP/install_crypt-tool.ps1; Invoke-Expression $env:TMP/install_crypt-tool.ps1`
 
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
