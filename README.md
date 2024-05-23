@@ -1,5 +1,5 @@
 ## Cryptography tool
-*Created by Aleksandr S*
+*Created by Lazaurus S*
 
 Howdy and thanks for checking out `crypt-tool`. It's a set of commands made in rust aimed to aid furthered ethical education of cryptography in general.
 This project is currently still very WIP, as is my knowledge of GitHub in general :skull:.
