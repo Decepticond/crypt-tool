@@ -7,6 +7,7 @@ GSM Tools for nonspecific usecases
 
 use clap::Parser;
 mod xortool;
+mod aes;
 
 #[derive(Parser, Debug)]
 #[command(version, about, long_about = None)]
@@ -23,8 +24,8 @@ enum SubCommand {
     #[command(about = "Outputs a list of commands ")]
     Cmdlist,
 
-    //#[command(about = "unknown ")] -- don't uncomment until I figure out what to make next
-    //Untool, 
+   // #[command(about = "AES 128, 192, 256 encoder with given key.")] 
+    //Aesencoder, 
 
     //#[command(about = "unknown ")]
     //Untool2,

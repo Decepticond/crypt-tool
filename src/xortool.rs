@@ -6,7 +6,7 @@ XOR CL Tool from GSM-TOOL
 */
 use std::io;
 use indicatif::ProgressBar;
-
+//test
 
 pub fn xor_tool() {
     // Progress bar

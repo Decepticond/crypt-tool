@@ -9,6 +9,7 @@ edition = "2021"
 [dependencies]
 indicatif = "0.17.8"
 clap = { version = "4.5.4", features = ["derive"] }
+crypto = "0.5.1"
 
 [[bin]]
 name = "gsm-tool"
