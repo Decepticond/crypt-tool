@@ -1,6 +1,6 @@
 /*
 
-Aleksandr S 
+Decepticond S 
 GSM Tools for nonspecific usecases
 
 */
