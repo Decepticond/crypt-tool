@@ -1,3 +1,4 @@
+#fix this
 #Requires -Version 5
 param($path = "$home/gsm-tool")
 
